@@ -1,15 +1,8 @@
 # GettingCleaningData
 Coursera Course Project
 
----
-title: "CodeBook"
-author: "Dzoko"
-date: "Sunday, February 22, 2015"
-output: html_document
----
 
-
-#Code Book - Coursera - Getting & Cleaning Data 
+#READ ME - Coursera - Getting & Cleaning Data 
 
 Course Project: Human Activity Recognition Using Smartphones Dataset
 

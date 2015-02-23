@@ -43,7 +43,7 @@ The following modification have been made:
 	*Source data includes measurements for 561 variables
 	*Subset includes data that is derived from 86 of these variables. Please refer to the Appendix A below for the complete list.
 
-3.	The data will be returned by run_ananlysis.R as *.txt in the working directory. It is in the long form of tidy data. 
+3.	The data will be returned by run_analysis.R as *.txt in the working directory. It is in the long form of tidy data. 
 
 
 ##Data Dictionary
